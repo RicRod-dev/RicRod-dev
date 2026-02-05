@@ -10,4 +10,5 @@ Repositories:
 * Amazon Sagemaker for Generative AI
 * Building Deep Learning Applications with-Keras
 * Dataframes in Spark
-* 
+* Getting started with PyTorch
+* HTML personal website
