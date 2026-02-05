@@ -5,4 +5,4 @@
 
 
 Repositories:
-* SMS Spam Filter usingML and DataMining
+* SMS Spam Filter using Machine Learning and DataMining
