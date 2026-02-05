@@ -7,3 +7,4 @@
 Repositories:
 * SMS Spam Filter using Machine Learning and DataMining
 * IoT Malware Behavour detection using Deep Learning
+* Amazon Sagemaker for Generative AI
