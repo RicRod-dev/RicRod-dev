@@ -5,6 +5,7 @@
 
 
 Repositories:
+* Generative Adversarial Network (GAN) to generate synthetic QR codes with embedded messages
 * Hidden Markov Model for Metamorphic Malware Detection
 * SMS Spam Collection using the Naïve Bayes spam filter
 * SMS Spam Filter using Machine Learning and DataMining
