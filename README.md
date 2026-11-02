@@ -14,4 +14,5 @@ Repositories:
 * Building Deep Learning Applications with-Keras
 * Dataframes in Spark
 * Getting started with PyTorch
-* HTML personal website
+* HTML personal website (https://www.rodriguezricardo.net/)
+* HTML research interest group (https://www.rodriguezricardo.net/ResearchInterestGroup/default.html)
