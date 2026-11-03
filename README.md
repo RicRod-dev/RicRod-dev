@@ -11,7 +11,8 @@ Repositories:
 
 
 * SMS Spam Filter using Machine Learning and DataMining
-<img width="520" height="484" alt="image" src="https://github.com/user-attachments/assets/64b30e91-d5b0-40d8-952f-b383e7514777" />
+<img width="420" height="402" alt="image" src="https://github.com/user-attachments/assets/64b30e91-d5b0-40d8-952f-b383e7514777" />
+
 * IoT Malware Behavour detection using Deep Learning
 * Amazon Sagemaker for Generative AI
 * Building Deep Learning Applications with-Keras
