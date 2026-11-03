@@ -8,6 +8,8 @@ Repositories:
 * Generative Adversarial Network (GAN) to generate synthetic QR codes with embedded messages
 * Hidden Markov Model for Metamorphic Malware Detection
 * SMS Spam Collection using the Naïve Bayes spam filter
+<img width="603" height="584" alt="image" src="https://github.com/user-attachments/assets/64b30e91-d5b0-40d8-952f-b383e7514777" />
+
 * SMS Spam Filter using Machine Learning and DataMining
 * IoT Malware Behavour detection using Deep Learning
 * Amazon Sagemaker for Generative AI
