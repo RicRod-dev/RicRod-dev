@@ -14,6 +14,8 @@ Repositories:
 <img width="420" height="402" alt="image" src="https://github.com/user-attachments/assets/64b30e91-d5b0-40d8-952f-b383e7514777" />
 
 * IoT Malware Behavour detection using Deep Learning
+<img width="420" height="402" alt="image" src="https://github.com/user-attachments/assets/db02759c-3585-43a5-8760-c3cec496beb7" />
+
 * Amazon Sagemaker for Generative AI
 * Building Deep Learning Applications with-Keras
 * Dataframes in Spark
