@@ -5,7 +5,7 @@
 
 
 Repositories:
-* Autoscaling
+* Autoscaling with Deep Q-Network
 <img width="420" height="402" alt="image" src="https://github.com/user-attachments/assets/6689b36a-8686-4a88-aeed-bb52820bdc2b" />
 
 * Generative Adversarial Network (GAN) to generate synthetic QR codes with embedded messages
