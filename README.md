@@ -5,6 +5,9 @@
 
 
 Repositories:
+* Autoscaling
+<img width="938" height="644" alt="image" src="https://github.com/user-attachments/assets/6689b36a-8686-4a88-aeed-bb52820bdc2b" />
+
 * Generative Adversarial Network (GAN) to generate synthetic QR codes with embedded messages
 * Hidden Markov Model for Metamorphic Malware Detection
 * SMS Spam Collection using the Naïve Bayes spam filter
